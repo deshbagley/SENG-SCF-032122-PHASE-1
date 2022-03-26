@@ -10,6 +10,6 @@ function renderGreeting(name){
       div.append(h3)
     } 
 }
-// let me = prompt("Hi there pls tell me your name")
+ let me = prompt("Hi there pls tell me your name")
 // console.log(typeof me)
 // renderGreeting(me)
