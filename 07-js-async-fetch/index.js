@@ -21,6 +21,7 @@ function addPoke(e) {
   pokeForm.reset()
   alert("nice job! your new poke is added to page")
   console.log("alert - nice job!")
+  console.log("2nd console log - message")
 }
 
 const pokeContainer = document.querySelector("#poke-container");
